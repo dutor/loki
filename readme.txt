@@ -30,7 +30,9 @@ CodeWarrior has a problem with the Conversion template (see TypeManip.h) and, th
 More info:
 
 http://moderncppdesign.com
+
 http://sourceforge.net/projects/loki-lib/
+
 http://sourceforge.net/projects/loki-exp/
 
 

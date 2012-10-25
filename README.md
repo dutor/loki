@@ -1,8 +1,14 @@
 loki
 ====
 
-A C++ Template library, developed by  Andrei Alexandrescu, the author of the book Modern C++ Design.
+A C++ Template library, developed by  Andrei Alexandrescu, the author of the book _Modern C++ Design_.
 
+Source code in this project is tied to Modern C++ Design. For the mostly recent updates, please refer to the official project in SourceForge.net: http://sourceforge.net/projects/loki-lib/files/Loki/
+
+The purpose to create this repository is just to do experiments in _Modern C++ Design_.
+
+Quoted from the original readme.txt
+====
 
 Last update: Aug 29, 2002
 
@@ -36,7 +42,10 @@ CodeWarrior has a problem with the Conversion template (see TypeManip.h) and, th
 More info:
 
 http://moderncppdesign.com
+
 http://sourceforge.net/projects/loki-lib/
+
 http://sourceforge.net/projects/loki-exp/
+
 
 
